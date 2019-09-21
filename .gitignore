@@ -1,5 +1,6 @@
 .project
 .classpath
+.settings
 *.class
 data.txt
 data2.txt
